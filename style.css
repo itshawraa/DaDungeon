@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-image: url(../dungeon/R.jfif);
+    background-image: url(R.jfif);
     backface-visibility: 40%;
     backdrop-filter: red;
     background-position: center;
